@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:id="@+id/home"/>
+
+    <item android:title="Profile"
+        android:icon="@drawable/ic_assignment_ind_black_24dp"
+        android:id="@+id/profile"/>
+
+    <item android:title="Scan"
+          android:icon="@drawable/ic_fullscreen_black_24dp"
+          android:id="@+id/scan"/>
+
+    <item android:title="My office"
+          android:icon="@drawable/ic_work_black_24dp"
+          android:id="@+id/office"/>
+
+    <item android:title="Setting"
+          android:icon="@drawable/ic_settings_black_24dp"
+          android:id="@+id/setting"/>
+
+</menu>
